@@ -1,3 +1,4 @@
+/*Hello! this an example of a git*/
 #include <stdio.h>
 
 int main() {
